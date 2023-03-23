@@ -1,0 +1,33 @@
+.btn-primary{
+	background-color: black;
+}
+
+#services{
+	background-color: black;
+	color: white;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+.left {
+	text-align: left;
+}
+
+#services img{
+	max-width: 100%;
+}
+header.masthead {
+	background-image: url("../img/sagolandskap\ gron.jpg");
+	height: 150vh;
+}
+
+.intro-lead-in {
+	background-color: black;
+	padding: 15px;
+	border: solid 1px;
+	border-color: yellow;
+	border-radius: 1%;
+}
